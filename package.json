@@ -1,10 +1,10 @@
-{
+{ 
   "name": "LAB-06A-DUMMY-GET",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    
+    "start" : "nod index.js",
     "test": "jest",
     "test:watch": "jest --watch"
   },
